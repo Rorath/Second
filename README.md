@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Demo 2
 
 hello form Second
@@ -6,3 +7,8 @@ hello form Second
 
 git checkout -b <new branch name>
 #Test line
+=======
+#Demo
+
+there may be a conflict issue
+>>>>>>> main
